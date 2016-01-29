@@ -7,9 +7,12 @@ J. G. Fernandez-Trincado & A.C. Robin
 
 Status
 --
-
 in progress, Fernandez-Trincado et al. 2016d
 
+Contact
+--
+Please let me know if you have any questions or suggestions: jfernandez@obs-besancon.fr, jfernandezt87@gmail.com
+ 
 Description 
 ---
 
