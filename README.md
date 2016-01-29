@@ -3,7 +3,7 @@ A Bayesian method for Nearest-Neighbor Density Estimation
 
 Author 
 --
-J. G. Fernandez-Trincado & A.C. Robin
+J. G. Fernandez-Trincado and Second Co-author here
 
 Status
 --
