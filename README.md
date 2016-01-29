@@ -13,5 +13,5 @@ In preparation ...
 Examples
 --
 
-![Figure](https://github.com/Fernandez-Trincado/KNeighborsBGMDensity2016/blob/master/Figures/RRLyrae_Torrealba2015_XvsZ.png)
+![Figure](https://github.com/Fernandez-Trincado/KNeighborsBGMDensity2016/blob/master/Figures/density.png)
 
