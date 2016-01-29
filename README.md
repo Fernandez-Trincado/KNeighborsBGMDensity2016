@@ -5,10 +5,20 @@ Author
 --
 J. G. Fernandez-Trincado & xxx
 
+Status
+--
+
+in progress, Fernandez-Trincado et al. 2016d
+
 Description 
 ---
 
-In preparation ...
+Full information will be available after the final publication. 
+
+Code
+---
+
+Full code will be available after the final publication. 
 
 Examples
 --
